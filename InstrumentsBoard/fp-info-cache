@@ -1,4 +1,4 @@
-22607719539325547
+22607809928810969
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62727,6 +62727,13 @@ Q36SR12020NRFA
 8
 8
 MRDT_Devices
+SHHD003A0A-SRZ
+
+
+0
+6
+6
+MRDT_Devices
 TSR_1-2433
 
 
@@ -86799,13 +86806,6 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
-Signatures
-Caleb_Ehlers_Signature_15mmx4.8mm
-
-
-0
-0
-0
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
