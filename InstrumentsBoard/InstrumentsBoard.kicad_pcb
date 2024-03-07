@@ -1822,7 +1822,7 @@
   (gr_text "CCD Breakout" (at 75.184 72.898) (layer "F.SilkS") (tstamp 87ce4621-6826-4efc-8a6c-3557722d7451)
     (effects (font (size 1.016 1.016) (thickness 0.254) bold) (justify left bottom))
   )
-  (gr_text "Hamamatsu" (at 64.77 35.814) (layer "F.SilkS") (tstamp a0633d67-d629-482d-9286-d909c4d4e043)
+  (gr_text "Hamamatsu" (at 78.486 36.068) (layer "F.SilkS") (tstamp a0633d67-d629-482d-9286-d909c4d4e043)
     (effects (font (size 1.016 1.016) (thickness 0.254) bold) (justify left bottom))
   )
   (gr_text "532nm Laser" (at 61.214 72.898) (layer "F.SilkS") (tstamp ce8871b3-de4f-44bd-a6b7-3eba4eeee8a2)
