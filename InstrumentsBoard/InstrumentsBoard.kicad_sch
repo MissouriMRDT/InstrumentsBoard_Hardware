@@ -2619,7 +2619,7 @@
     (property "Value" "BSS138BK" (at 209.55 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 208.28 46.355 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-523" (at 208.28 46.355 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" (at 203.2 44.45 0)
@@ -2935,11 +2935,11 @@
     (property "Datasheet" "" (at 24.13 64.77 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid cca3c6ad-97ff-4471-a486-4bbee41f4c8a))
+    (pin "1" (uuid cca3c6ad-97ff-4471-a486-4bbee41f4c8b))
     (pin "2" (uuid 67a2f8f3-0313-4f28-a38a-06e300a3b7c3))
     (pin "3" (uuid 62d22449-d630-4802-bce7-66af4f1430a9))
     (pin "4" (uuid f0a67ac2-b30e-45cb-9892-67c54261a45a))
-    (pin "1" (uuid cca3c6ad-97ff-4471-a486-4bbee41f4c8a))
+    (pin "1" (uuid cca3c6ad-97ff-4471-a486-4bbee41f4c8b))
     (instances
       (project "InstrumentsBoard"
         (path "/dd57774e-6364-4f58-a24d-9970470de2f9"
@@ -3302,11 +3302,11 @@
     (property "Datasheet" "" (at 24.13 54.61 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 7f5a51d9-5d02-4447-b0ea-f96992e4f523))
+    (pin "1" (uuid 7f5a51d9-5d02-4447-b0ea-f96992e4f524))
     (pin "2" (uuid ba2e1962-eacb-4069-9b7a-fd5cbc108d1c))
     (pin "3" (uuid ab36252b-cd90-4be1-bee6-b6cdc2620eb5))
     (pin "4" (uuid 96a2f6ca-2d49-46cd-8f8f-77f36e42c12e))
-    (pin "1" (uuid 7f5a51d9-5d02-4447-b0ea-f96992e4f523))
+    (pin "1" (uuid 7f5a51d9-5d02-4447-b0ea-f96992e4f524))
     (instances
       (project "InstrumentsBoard"
         (path "/dd57774e-6364-4f58-a24d-9970470de2f9"
