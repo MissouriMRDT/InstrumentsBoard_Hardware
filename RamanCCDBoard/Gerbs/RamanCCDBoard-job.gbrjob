@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2023-11-02T23:28:56-05:00"
+    "CreationDate": "2024-03-26T15:52:03-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "CCD_Breakout",
-      "GUID": "4343445f-4272-4656-916b-6f75742e6b69",
+      "Name": "RamanCCDBoard",
+      "GUID": "52616d61-6e43-4434-9442-6f6172642e6b",
       "Revision": "rev?"
     },
     "Size": {
@@ -27,54 +27,54 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.254,
+      "MinLineWidth": 0.25,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "CCD_Breakout-F_Cu.gbr",
+      "Path": "RamanCCDBoard-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CCD_Breakout-B_Cu.gbr",
+      "Path": "RamanCCDBoard-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CCD_Breakout-F_Paste.gbr",
+      "Path": "RamanCCDBoard-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CCD_Breakout-B_Paste.gbr",
+      "Path": "RamanCCDBoard-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CCD_Breakout-F_Silkscreen.gbr",
+      "Path": "RamanCCDBoard-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CCD_Breakout-B_Silkscreen.gbr",
+      "Path": "RamanCCDBoard-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CCD_Breakout-F_Mask.gbr",
+      "Path": "RamanCCDBoard-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "CCD_Breakout-B_Mask.gbr",
+      "Path": "RamanCCDBoard-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "CCD_Breakout-Edge_Cuts.gbr",
+      "Path": "RamanCCDBoard-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
